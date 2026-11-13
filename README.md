@@ -4,6 +4,9 @@ VCU GPA Calculator
 
 A desktop GPA calculator built with Python and CustomTkinter, featuring a black and gold interface inspired by Virginia Commonwealth University.
 
+## Aplication Preview
+
+VCU GPA Calculator <img width="800" alt="VCU GPA Calculator Preview" src="https://github.com/user-attachments/assets/2261b254-2eaf-40a4-818a-db3468ba4c3c" />
 
 
 Features
